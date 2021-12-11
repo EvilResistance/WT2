@@ -1,0 +1,40 @@
+<appliances>
+    <teapot>
+        <price>100</price>
+        <power>1000</power>
+        <weight>9</weight>
+        <bulk>1</bulk>
+        <color>BLUE</color>
+    </teapot>
+    <teapot>
+        <price>100</price>
+        <power>1000</power>
+        <weight>5</weight>
+        <bulk>2</bulk>
+        <color>GREEN</color>
+    </teapot>
+
+    <laptop>
+        <price>75000</price>
+        <battery_capacity>3000</battery_capacity>
+        <os>DOS</os>
+        <memory_rom>16384</memory_rom>
+        <cpu>AMD_RYZEN_5_4600H</cpu>
+        <display_inches>14.0</display_inches>
+    </laptop>
+    <laptop>
+        <price>60000</price>
+        <battery_capacity>4000</battery_capacity>
+        <os>WINDOWS</os>
+        <memory_rom>16384</memory_rom>
+        <cpu>AMD_RYZEN_7_5700U</cpu>
+        <display_inches>13</display_inches>
+    </laptop>
+
+
+    <fridge>
+        <price>100000</price>
+        <color>BLACK</color>
+        <company>BOSCH</company>
+    </fridge>
+</appliances>
